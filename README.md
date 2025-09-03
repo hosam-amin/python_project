@@ -146,13 +146,13 @@ This visualization shows how the demand for **top technical skills** among Data 
 
 #### 🧾 SQL
 - Stayed the **most in-demand skill** across the entire year.  
-- Despite slight fluctuations, it consistently led the chart (~45–55%).  
+- Despite slight fluctuations, it consistently led the chart (45–55%).  
 - Reinforces SQL as the **core competency** for analysts.  
 
 ---
 
 #### 📊 Excel
-- Maintained steady demand early in the year (~42%).  
+- Maintained steady demand early in the year (42%).  
 - Experienced a **noticeable drop in the fall (Oct–Nov)**, but rebounded in December.  
 - Shows Excel remains essential but may be losing ground to modern tools.  
 
@@ -165,13 +165,13 @@ This visualization shows how the demand for **top technical skills** among Data 
 ---
 
 #### 🐍 Python
-- Held a steady presence (~26–30%), slightly below Tableau.  
+- Held a steady presence (26–30%), slightly below Tableau.  
 - Suggests Python is important for analysts but not as dominant as in Data Science roles.  
 
 ---
 
 #### 📉 SAS
-- Consistently the **least requested skill (~18–22%)**.  
+- Consistently the **least requested skill (18–22%)**.  
 - Highlights its declining relevance compared to modern tools.  
 
 ---
@@ -209,7 +209,7 @@ plt.show()
 
 #### Insights
 
-From the analysis, it’s clear that salary levels follow a consistent hierarchy: **Data Analyst** sits at the bottom, while **Senior Data Scientist** leads with the highest pay. Median salaries show a big jump when moving from Analyst roles (~$70K–$130K) to Engineer/Scientist roles (~$130K–$170K), with Senior Data Scientist pushing even higher (~$150K–$180K).  
+From the analysis, it’s clear that salary levels follow a consistent hierarchy: **Data Analyst** sits at the bottom, while **Senior Data Scientist** leads with the highest pay. Median salaries show a big jump when moving from Analyst roles ($70K–$130K) to Engineer/Scientist roles ($130K–$170K), with Senior Data Scientist pushing even higher ($150K–$180K).  
 
 I also notice that Analysts have a much **narrower range**, which makes their salaries more predictable, but less rewarding. In contrast, Engineers and Scientists face **much wider spreads**, meaning opportunities for very high salaries exist, especially in top companies. The extreme outliers for Data Scientist and Data Engineer (reaching $500K–$600K) highlight how lucrative these roles can be in rare cases.  
 
@@ -298,15 +298,15 @@ plt.show()
 #### Insights
 
 - **Most common ≠ highest salary**  
-  - SQL is the most in-demand skill (55–60% of jobs) but doesn’t have the highest pay (~$90K).  
-  - Python is less common (~30%) but commands the top salary (~$98K).  
+  - SQL is the most in-demand skill (55–60% of jobs) but doesn’t have the highest pay ($90K).  
+  - Python is less common (30%) but commands the top salary ($98K).  
 
 - **Office tools = lower pay**  
-  - Excel, Word, and PowerPoint are widely required, especially Excel (~45%), but they link to lower salaries ($82K–$85K).  
+  - Excel, Word, and PowerPoint are widely required, especially Excel (45%), but they link to lower salaries ($82K–$85K).  
   - Relying only on these skills won’t maximize salary potential.  
 
 - **Specialized database skills pay more**  
-  - Oracle and SQL Server aren’t as common (~10–15%) but lead to higher salaries ($92K–$97K).  
+  - Oracle and SQL Server aren’t as common (10–15%) but lead to higher salaries ($92K–$97K).  
   - Niche database expertise offers strong competitive advantage.  
 
 - **Visualization tools are mid-range**  
