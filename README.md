@@ -40,7 +40,7 @@ To build this project, I combined a set of tools that cover **coding, analysis, 
 ## 1. What are the most demanded skills for the top 3 most popular data roles?
 
 View my notebook with detailed steps here:  
-[2_Skills_Count.ipynb](project\2_Skills_Count.ipynb)
+[2_Skills_Count.ipynb](project/2_Skills_Count.ipynb)
 
 ### Visualize Data
 
@@ -59,7 +59,7 @@ plt.show()
 
 ### Results
 
-![Visualization of Top Skills for Data Jobs](project\images\skill_demand.png)
+![Visualization of Top Skills for Data Jobs](project/images/skill_demand.png)
 
 ### Insights
 
@@ -134,7 +134,7 @@ for i, col in enumerate(df_plot.columns):
 
 ### Results
 
-![Trending Top Skills for Data Analysts in the US](project\images\trending_skills.png)
+![Trending Top Skills for Data Analysts in the US](project/images/trending_skills.png)
 *Bar graph visualizing the trending top skills for data analysts in the US in 2023*
 
 
@@ -204,7 +204,7 @@ plt.show()
 
 #### Results 
 
-![Salary Distributions of Data Jobs in Jobs in the US](project\images\salarry_boxplot.png)
+![Salary Distributions of Data Jobs in Jobs in the US](project/images/salarry_boxplot.png)
 *Box plot visualizing the salary distributions for the top 6 date job titles.*
 
 #### Insights
@@ -233,7 +233,7 @@ plt.show()
 
 #### Results
 
-![The Highesst Paid & Most In-Demand Skills for Data Analysts in the US](project\images\The_Highesst_Paid_and_Most_In_Demand_Skills_for_Data_Analysts_in_the_US.png)
+![The Highesst Paid & Most In-Demand Skills for Data Analysts in the US](project/images/The_Highesst_Paid_and_Most_In_Demand_Skills_for_Data_Analysts_in_the_US.png)
 *Two separate bar graphs visualizing the highest paid skills and mist in-ddemand skills for data analysts in the US.*
 
 
@@ -291,7 +291,7 @@ plt.show()
 ```
 #### Results
 
-![The Highesst Paid & Most In-Demand Skills for Data Analysts in the US](project\images\optimal_skills.png)
+![The Highesst Paid & Most In-Demand Skills for Data Analysts in the US](project/images/optimal_skills.png)
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysis in the US.*
 
 
