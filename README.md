@@ -1,4 +1,4 @@
-# 📘 Introduction
+#  Introduction
 
 This repository is a structured journey into **Python for Data Analysis**.  
 It’s not just a collection of scripts and visualizations, but a walkthrough of how Python can be applied to explore data, uncover insights, and communicate findings effectively.  
